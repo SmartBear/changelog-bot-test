@@ -7,4 +7,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Make it Amazing #12
+- Make it Amazing [#12](https://github.com/smartbear/changelog-bot-test/issues/12)
