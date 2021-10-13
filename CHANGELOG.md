@@ -6,6 +6,10 @@ and  this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- It is broken ([#13](https://github.com/smartbear/changelog-bot-test/issues/13)
+
 ## 1.0.0
 
 ### Added
